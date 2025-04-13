@@ -1,0 +1,22 @@
+{
+    "fonts": [
+        {
+            "aifont": "SourceSansRoman-Bold",
+            "family": "Source Sans Pro, sans-serif",
+            "weight": "700",
+            "style": "normal"
+        },
+        {
+            "aifont": "SourceSansRoman-Regular",
+            "family": "Source Sans Pro, sans-serif",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "Roboto-Italic",
+            "family": "Roboto, sans-serif",
+            "weight": "400",
+            "style": ""
+        }
+    ]
+}
