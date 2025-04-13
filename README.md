@@ -1,4 +1,4 @@
-# 🧒 Child Care Crisis in New York
+# Child Care Crisis in New York
 
 This repo includes all my data analysis and charts for the story.
 
